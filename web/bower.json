@@ -1,0 +1,20 @@
+{
+  "name": "lang.zhan",
+  "homepage": "https://github.com/zl-lang/gitspace",
+  "authors": [
+    "zl-lang <308419872@qq.com>"
+  ],
+  "description": "web project",
+  "main": "src",
+  "keywords": [
+    "web"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
